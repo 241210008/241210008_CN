@@ -42,7 +42,7 @@ The repository contains 12 Computer Networks laboratory experiments, along with 
 
 | # | Experiment | Report | Simulation | Source Code |
 |:-:|---|:-:|:-:|:-:|
-| 1 | [Network Cables](1_Network_cabels) | [📄 PDF](EXP_1/Experiment 1 - Network Cables.pdf ) | [🖧 PKT](EXP_1/1_Network_cabels.pkt) | — |
+| 1 | [Network Cables](1_Network_cabels) | [📄 PDF](EXP_1/Experiment 1 - Network Cables.pdf) | [🖧 PKT](EXP_1/1_Network_cabels.pkt) | — |
 | 2 | [Basic Network Commands](2_Basic_Network_Commands) | [📄 PDF](EXP_2/Experiment 2 - Basic Network Commands.pdf) | [🖧 PKT](EXP_2/2_Basic_Network_Commands.pkt) | — |
 | 3 | [Network Devices](3_Network_Devices) | [📄 PDF](EXP_3/Experiment 3 - Network Devices.pdf) | [🖧 PKT](EXP_3/3_Network_Devices.pkt) | — |
 | 4 | [Networking and IP Addressing](4_Networking_IP) | [📄 PDF](EXP_4/Experiment 4 - Network IP Addressing.pdf) | [🖧 PKT](EXP_4/4_Networking_IP.pkt) | — |
