@@ -42,18 +42,18 @@ The repository contains 12 Computer Networks laboratory experiments, along with 
 
 | # | Experiment | Report | Simulation | Source Code |
 |:-:|---|:-:|:-:|:-:|
-| 1 | [Network Cables](1_Network_cabels) | [📄 PDF](1_Network_cabels/1_Network_cabels.pdf) | [🖧 PKT](1_Network_cabels/1_Network_cabels.pkt) | — |
-| 2 | [Basic Network Commands](2_Basic_Network_Commands) | [📄 PDF](2_Basic_Network_Commands/2_Basic_Network_Commands.pdf) | [🖧 PKT](2_Basic_Network_Commands/2_Basic_Network_Commands.pkt) | — |
-| 3 | [Network Devices](3_Network_Devices) | [📄 PDF](3_Network_Devices/3_Network_Devices.pdf) | [🖧 PKT](3_Network_Devices/3_Network_Devices.pkt) | — |
-| 4 | [Networking and IP Addressing](4_Networking_IP) | [📄 PDF](4_Networking_IP/4_Networking_IP.pdf) | [🖧 PKT](4_Networking_IP/4_Networking_IP.pkt) | — |
-| 5 | [LAN Connection](5_LAN_Connection) | [📄 PDF](5_LAN_Connection/5_LAN_Connection.pdf) | [🖧 PKT](5_LAN_Connection/5_LAN_Connection.pkt) | — |
-| 6 | [Router Configuration](6_Router_confi) | [📄 PDF](6_Router_confi/6_Router_confi.pdf) | [🖧 PKT](6_Router_confi/6_Router_confi.pkt) | — |
-| 7 | [Peer-to-Peer Networking](7_P2P) | [📄 PDF](7_P2P/7_P2P.pdf) | [🖧 PKT](7_P2P/7_P2P.pkt) | — |
-| 8 | [Network Address Translation (NAT)](8_NAT) | [📄 PDF](8_NAT/8_NAT.pdf) | [🖧 PKT](8_NAT/Exp08_NAT.pkt) | — |
-| 9 | [Routing Protocols](9_Routing_Protocols) | [📄 PDF](9_Routing_Protocols/9_Routing_Protocols.pdf) | [🖧 PKT](9_Routing_Protocols/9_Routing_Protocols.pkt) | — |
-| 10 | [TCP and UDP Client-Server Communication](10_TCP_UDP_Client_Server) | [📄 PDF](10_TCP_UDP_Client_Server/10_TCP_UDP_Client_Server.pdf) | [🖧 PKT](10_TCP_UDP_Client_Server/10_TCP_UDP_Client_Server.pkt) | [🐍 TCP Server](10_TCP_UDP_Client_Server/tcp_server.py) · [TCP Client](10_TCP_UDP_Client_Server/tcp_client.py) · [UDP Server](10_TCP_UDP_Client_Server/udp_server.py) · [UDP Client](10_TCP_UDP_Client_Server/udp_client.py) |
-| 11 | [Socket Programming](11_Socket_Programming) | [📄 PDF](11_Socket_Programming/11_Socket_Programming.pdf) | [🖧 PKT](11_Socket_Programming/11_Socket_Programming.pkt) | [🐍 Server](11_Socket_Programming/threaded_server.py) · [Client](11_Socket_Programming/client.py) |
-| 12 | [Network Tools Exploration](12_Network_Tools_Exploration) | [📄 PDF](12_Network_Tools_Exploration/12_Network_Tools_Exploration.pdf) | [🖧 PKT](12_Network_Tools_Exploration/12_Network_Tools_Exploration.pkt) | — |
+| 1 | [Network Cables](1_Network_cabels) | [📄 PDF](EXP_1/Experiment 1 - Network Cables.pdf ) | [🖧 PKT](EXP_1/1_Network_cabels.pkt) | — |
+| 2 | [Basic Network Commands](2_Basic_Network_Commands) | [📄 PDF](EXP_2/Experiment 2 - Basic Network Commands.pdf) | [🖧 PKT](EXP_2/2_Basic_Network_Commands.pkt) | — |
+| 3 | [Network Devices](3_Network_Devices) | [📄 PDF](EXP_3/Experiment 3 - Network Devices.pdf) | [🖧 PKT](EXP_3/3_Network_Devices.pkt) | — |
+| 4 | [Networking and IP Addressing](4_Networking_IP) | [📄 PDF](EXP_4/Experiment 4 - Network IP Addressing.pdf) | [🖧 PKT](EXP_4/4_Networking_IP.pkt) | — |
+| 5 | [LAN Connection](5_LAN_Connection) | [📄 PDF](EXP_5/Experiment 5 - LAN Connection.pdf) | [🖧 PKT](EXP_5/5_LAN_Connection.pkt) | — |
+| 6 | [Router Configuration](6_Router_confi) | [📄 PDF](EXP_6/Experiment 6 - Router Configuration.pdf) | [🖧 PKT](EXP_6/6_Router_confi.pkt) | — |
+| 7 | [Peer-to-Peer Networking](7_P2P) | [📄 PDF](EXP_7/Experiment 7 - Peer to Peer Network.pdf) | [🖧 PKT](EXP_7/7_P2P.pkt) | — |
+| 8 | [Network Address Translation (NAT)](8_NAT) | [📄 PDF](EXP_8/Experiment 8 - Network Address Translation.pdf) | [🖧 PKT](EXP_8/Exp08_NAT.pkt) | — |
+| 9 | [Routing Protocols](9_Routing_Protocols) | [📄 PDF](EXP_9/Experiment 9 - Routing Protocols.pdf) | [🖧 PKT](EXP_9/9_Routing_Protocols.pkt) | — |
+| 10 | [TCP and UDP Client-Server Communication](10_TCP_UDP_Client_Server) | [📄 PDF](EXP_10/Experiment 10 - TCP and UDP Client-Server.pdf) | [🖧 PKT](EXP_10/EXP_10/udp_client.py) | [🐍 TCP Server](EXP_10/tcp_server.py) · [TCP Client](EXP_10/tcp_client.py) · [UDP Server](EXP_10/udp_server.py) · [UDP Client](10_TCP_UDP_Client_Server/udp_client.py) |
+| 11 | [Socket Programming](11_Socket_Programming) | [📄 PDF](EXP_11/Experiment 11 - Socket Programming.pdf) | [🖧 PKT](EXP_11/11_Socket_Programming.pkt) | [🐍 Server](EXP_11/threaded_server.py) · [Client](EXP_11/client.py) |
+| 12 | [Network Tools Exploration](12_Network_Tools_Exploration) | [📄 PDF](EXP_12/Experiment 12 - Network Tools Exploration.pdf) | [🖧 PKT](EXP_12/12_Network_Tools_Exploration.pkt) | — |
 
 <div align="right"><a href="#-computer-networks-lab">⬆ Back to Top</a></div>
 
